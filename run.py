@@ -1,3 +1,3 @@
-from fmbf import Menu
+from fmbf import Main
 
-Menu().menu()
+Main().menu()
